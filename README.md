@@ -1,4 +1,5 @@
-# You need To make database name: todos
-# Need to make table name also :todos
+# database name: todos
+# table name also :todos
 # table column: 2
-# table columns   id    Title
+# table columns id and Title
+# id must be autoincrement
